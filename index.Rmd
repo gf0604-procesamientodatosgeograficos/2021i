@@ -26,4 +26,4 @@ Este sitio web corresponde al curso impartido durante el primer ciclo lectivo de
 [Programa del curso](https://github.com/gf0604-procesamientodatosgeograficos/2021i-programa/blob/main/gf0604-procesamientodatosgeograficos-g001-2021i.pdf)
 
 # Lecciones
-[01 Introducción al pensamiento computacional]()
+[01 Introducción al pensamiento computacional](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-01/)
