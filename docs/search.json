@@ -3,10 +3,15 @@
     {
       "path": "index.html",
       "title": "GFO604 Procesamiento de datos geográficos 2021-I",
-      "description": "Curso GF0604 Procesamiento de datos geográficos de la Escuela de Geografía de la Universidad de Costa Rica. Primer ciclo lectivo 2021.\n",
-      "author": [],
-      "contents": "\r\n\r\nContents\r\nDescripción\r\nPrograma\r\nLecciones\r\n\r\nDescripción\r\nEste es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje de programación R. Los estudiantes no requieren conocimientos previos en programación de computadoras. Se estudiarán los fundamentos del lenguaje R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplicarán en diversos escenarios de procesamiento de datos los conocimientos adquiridos.\r\nEste sitio web corresponde al curso impartido durante el primer ciclo lectivo de 2021. Para las versiones de ciclos anteriores, puede visitar el sitio web general del curso.\r\nPrograma\r\nPrograma del curso\r\nLecciones\r\n01 Introducción al pensamiento computacional\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-28T14:13:16-06:00"
+      "description": "Curso GF0604 Procesamiento de datos geográficos. Escuela de Geografía, Universidad de Costa Rica. Primer ciclo lectivo 2021.\n",
+      "author": [
+        {
+          "name": "Manuel Vargas",
+          "url": "https://github.com/mfvargas"
+        }
+      ],
+      "contents": "\r\n\r\nContents\r\nDescripción\r\nPrograma\r\nLecciones\r\n\r\nDescripción\r\nEste es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje de programación R. Se imparte en la Escuela de Geografía de la Universidad de Costa Rica.\r\nSe estudian los fundamentos del lenguaje R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplican en diversos escenarios de procesamiento de datos los conocimientos adquiridos. No se requieren conocimientos previos en programación de computadoras.\r\nEste sitio web corresponde al curso impartido durante el primer ciclo lectivo de 2021. Para las versiones de ciclos anteriores, puede visitar el sitio web general del curso.\r\nPrograma\r\nPrograma del curso\r\nLecciones\r\n01 Introducción al pensamiento computacional\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-28T21:41:45-06:00"
     }
   ],
   "collections": []

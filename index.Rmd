@@ -1,7 +1,12 @@
 ---
 title: "GFO604 Procesamiento de datos geográficos 2021-I"
+author: 
+- name: Manuel Vargas
+  url: https://github.com/mfvargas
+  affiliation: Universidad de Costa Rica
+  affiliation_url: https://www.ucr.ac.cr/
 description: |
-  Curso GF0604 Procesamiento de datos geográficos de la Escuela de Geografía de la Universidad de Costa Rica. Primer ciclo lectivo 2021.
+  Curso GF0604 Procesamiento de datos geográficos. Escuela de Geografía, Universidad de Costa Rica. Primer ciclo lectivo 2021.
 site: distill::distill_website
 ---
 
@@ -17,10 +22,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Descripción
-Este es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje de programación [R](https://www.r-project.org/). Los estudiantes no requieren conocimientos previos en programación de computadoras. Se estudiarán los fundamentos del lenguaje R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales
-los estudiantes aplicarán en diversos escenarios de procesamiento de datos los conocimientos adquiridos.
+Este es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje de programación [R](https://www.r-project.org/). Se imparte en la [Escuela de Geografía](https://www.geografia.fcs.ucr.ac.cr/) de la [Universidad de Costa Rica](https://www.ucr.ac.cr/).
 
-Este sitio web corresponde al curso impartido durante el primer ciclo lectivo de 2021. Para las versiones de ciclos anteriores, puede visitar el [sitio web general del curso]().
+Se estudian los fundamentos del lenguaje R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplican en diversos escenarios de procesamiento de datos los conocimientos adquiridos. No se requieren conocimientos previos en programación de computadoras.
+
+Este sitio web corresponde al curso impartido durante el primer ciclo lectivo de 2021. Para las versiones de ciclos anteriores, puede visitar el [sitio web general del curso](https://gf0604-procesamientodatosgeograficos.github.io/).
 
 # Programa
 [Programa del curso](https://github.com/gf0604-procesamientodatosgeograficos/2021i-programa/blob/main/gf0604-procesamientodatosgeograficos-g001-2021i.pdf)
