@@ -14,8 +14,16 @@
           "url": {}
         }
       ],
-      "contents": "\r\n\r\nContents\r\nDescripción\r\nPrograma\r\nLecciones\r\n\r\nDescripción\r\nEste es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje de programación R. Se imparte en la Escuela de Geografía de la Universidad de Costa Rica.\r\nSe estudian los fundamentos del lenguaje R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplican en diversos escenarios de procesamiento de datos los conocimientos adquiridos. No se requieren conocimientos previos en programación de computadoras.\r\nEste sitio web corresponde al curso impartido durante el primer ciclo lectivo de 2021. Para ver las versiones de otros ciclos lectivos, puede visitar el sitio web general del curso.\r\nPrograma\r\nPrograma del curso\r\nLecciones\r\n01 Introducción al pensamiento computacional\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-07T21:49:21-06:00"
+      "contents": "\r\n\r\nContents\r\nDescripción\r\nPrograma\r\nLecciones\r\nRecursos\r\n\r\nDescripción\r\nEste es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje de programación R. Se imparte en la Escuela de Geografía de la Universidad de Costa Rica.\r\nSe estudian los fundamentos del lenguaje R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplican en diversos escenarios de procesamiento de datos los conocimientos adquiridos. No se requieren conocimientos previos en programación de computadoras.\r\nEste sitio web corresponde al curso impartido durante el primer ciclo lectivo de 2021. Para ver las versiones de otros ciclos lectivos, puede visitar el sitio web general del curso.\r\nPrograma\r\nPrograma del curso\r\nLecciones\r\n01 Introducción al pensamiento computacional\r\nRecursos\r\nRecursos adicionales a la bibliografía del curso\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-09T13:00:12-06:00"
+    },
+    {
+      "path": "recursos.html",
+      "title": "Recursos",
+      "description": "Recursos adicionales a los mencionados en la bibliografía del curso.\n",
+      "author": [],
+      "contents": "\r\n\r\nContents\r\nPensamiento computacional\r\nScratch\r\n\r\nPensamiento computacional\r\nComputational Thinking for Problem Solving\r\nCS50’s Introduction to Computer Science\r\nIntroduction to Computational Thinking\r\nScratch\r\nScratch - Imagine, Program, Share\r\nCS50’s Introduction to Programming with Scratch\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-09T12:58:00-06:00"
     }
   ],
   "collections": []
