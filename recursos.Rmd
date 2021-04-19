@@ -9,6 +9,22 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# GDAL
+- [GDAL](https://gdal.org/)
+
+# Interfaz de línea de comandos del sistema operativo
+- [SS64 Command line reference](https://ss64.com/)
+- [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) - Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
+
+# Markdown y R Markdown
+- [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
+- [R Markdown](https://rmarkdown.rstudio.com/)
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
 # Pensamiento computacional
 - [Computational Thinking for Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
