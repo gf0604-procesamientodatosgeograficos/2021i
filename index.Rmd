@@ -40,5 +40,8 @@ Este sitio web corresponde al curso impartido durante el primer ciclo lectivo de
 [03 Interfaces de línea de comandos](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-03/)  
 [04 El lenguaje de marcas Markdown](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-04/)  
 
+# Tareas
+[01 Markdown](https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/)
+
 # Recursos
 [Recursos adicionales a la bibliografía del curso](recursos.html)
