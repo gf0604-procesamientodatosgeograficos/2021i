@@ -12,6 +12,11 @@ knitr::opts_chunk$set(echo = FALSE)
 # GDAL
 - [GDAL](https://gdal.org/)
 
+# Git y GitHub
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [The Best Git Tutorials](https://www.freecodecamp.org/news/best-git-tutorial/)
+
 # Interfaz de línea de comandos del sistema operativo
 - [SS64 Command line reference](https://ss64.com/)
 - [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) - Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
@@ -29,6 +34,16 @@ knitr::opts_chunk$set(echo = FALSE)
 - [Computational Thinking for Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Introduction to Computational Thinking](https://computationalthinking.mit.edu/)
+
+# R y RStudio
+- [The R Project for Statistical Computing](https://www.r-project.org/)
+- [R Language Definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html)
+- [R Package Documentation](https://rdrr.io/)
+- [RStudio - Open source & professional software for data science teams](https://www.rstudio.com/)
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [(Tutorial) How to Install R on Windows, Mac OS X, and Ubuntu](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
+- [R Packages: A Beginner’s Guide](https://www.datacamp.com/community/tutorials/r-packages-guide)
 
 # Scratch
 - [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
