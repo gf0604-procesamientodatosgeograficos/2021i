@@ -44,6 +44,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [(Tutorial) How to Install R on Windows, Mac OS X, and Ubuntu](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
 - [R Packages: A Beginner’s Guide](https://www.datacamp.com/community/tutorials/r-packages-guide)
+- [Style guide - Advanced R](http://adv-r.had.co.nz/Style.html)
 
 # Scratch
 - [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
