@@ -46,6 +46,15 @@ knitr::opts_chunk$set(echo = FALSE)
 - [R Packages: A Beginner’s Guide](https://www.datacamp.com/community/tutorials/r-packages-guide)
 - [Style guide - Advanced R](http://adv-r.had.co.nz/Style.html)
 
+# R - Graficación
+- [The R Graphics Package](http://search.r-project.org/R/library/graphics/html/graphics-package.html)  
+- [Create Elegant Data Visualisations Using the Grammar of Graphics - ggplot2](https://ggplot2.tidyverse.org/)  
+- [Plotly: The front end for ML and data science models](https://plotly.com/)  
+
+- [_R Graphics Cookbook_, de Winston Chang](https://r-graphics.org/)  
+- [_The Grammar of Graphics_, de Leland Wilkinson et al.](https://www.springer.com/gp/book/9780387245447)  
+- [From data to Viz | Find the graphic you need](https://www.data-to-viz.com/).
+
 # Scratch
 - [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
 - [CS50's Introduction to Programming with Scratch](https://www.edx.org/course/cs50s-introduction-to-programming-with-scratch)
