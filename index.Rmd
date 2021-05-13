@@ -44,6 +44,7 @@ Este sitio web corresponde al curso impartido durante el primer ciclo lectivo de
 [07 El lenguaje de programación R - Conceptos básicos - tipos de datos](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-06/)  
 [08 El lenguaje de programación R - Conceptos básicos - definición de funciones, condicionales](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-06/)  
 [09 El lenguaje de programación R - Conceptos básicos - ciclos](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-06/)  
+[10 Graficación con R - Introducción](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-10/)  
 
 # Tareas
 [01 Markdown](https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/)
