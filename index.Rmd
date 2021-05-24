@@ -47,6 +47,7 @@ Este sitio web corresponde al curso impartido durante el primer ciclo lectivo de
 [10 Graficación con R - Introducción](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-10/)  
 [11 Exploración de datos](https://github.com/gf0604-procesamientodatosgeograficos/2021i-datos/blob/main/hidrologia/fdc/FDC.csv)  
 [12 Graficación con R - Gráficos de barras](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-10/)  
+[13 Tidyverse](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-13/)  
 
 # Tareas
 [01 Markdown](https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/)
