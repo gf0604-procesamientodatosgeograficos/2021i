@@ -29,6 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - [R Markdown](https://rmarkdown.rstudio.com/)
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+- [Yihui Xie | One R Markdown Document, Fourteen Demos | RStudio (2020)](https://www.youtube.com/watch?v=qLEkUjxk7e8)
 
 # Pensamiento computacional
 - [Computational Thinking for Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
@@ -53,7 +54,29 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - [_R Graphics Cookbook_, de Winston Chang](https://r-graphics.org/)  
 - [_The Grammar of Graphics_, de Leland Wilkinson et al.](https://www.springer.com/gp/book/9780387245447)  
-- [From data to Viz | Find the graphic you need](https://www.data-to-viz.com/).
+- [From data to Viz | Find the graphic you need](https://www.data-to-viz.com/)
+
+# R - Geoespacial
+## Paquetes
+- [Simple Features for R - sf](https://r-spatial.github.io/sf/)
+- [The raster package - R Spatial](https://rspatial.org/raster/pkg/)
+- [The terra package - R Spatial](https://rspatial.org/terra/pkg/)
+- [Leaflet for R](https://rstudio.github.io/leaflet/)
+- [tmap - R package for thematic maps](https://github.com/mtennekes/tmap)
+- [Interactive viewing of spatial data in R - mapview](https://r-spatial.github.io/mapview/)
+- [Spatiotemporal Arrays: Raster and Vector Datacubes - stars](https://r-spatial.github.io/stars/)
+- [CRAN - Package satellite](https://cran.r-project.org/web/packages/satellite/)
+
+## Libros
+- [_Geocomputation with R_, de Robin Lovelace et al.](https://geocompr.robinlovelace.net/)
+- [_Spatial Data Science with applications in R_, de Edzer Pebesma y Roger Bivand](https://keen-swartz-3146c4.netlify.app/)
+
+## Tutoriales
+- [Drawing beautiful maps programmatically with R, sf and ggplot2](http://r-spatial.org/r/2018/10/25/ggplot2-sf.html)
+
+## Otros
+- [r-spatial](http://r-spatial.org/)
+- [Spatial Data Science with R - R Spatial](https://rspatial.org/)
 
 # Scratch
 - [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
