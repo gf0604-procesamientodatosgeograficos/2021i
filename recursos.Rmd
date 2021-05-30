@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - [GitHub](https://github.com/)
 - [The Best Git Tutorials](https://www.freecodecamp.org/news/best-git-tutorial/)
 
-# Interfaz de línea de comandos del sistema operativo
+# Línea de comandos del sistema operativo
 - [SS64 Command line reference](https://ss64.com/)
 - [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) - Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
 
