@@ -49,6 +49,7 @@ Este sitio web corresponde al curso impartido durante el primer ciclo lectivo de
 [12 Graficación con R - Gráficos de barras](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-10/)  
 [13 Tidyverse](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-13/)  
 [14 Graficación con R - Histogramas, gráficos de dispersión y otros](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-10/)  
+[15 El ecosistema espacial de R](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
 
 # Tareas
 [01 Markdown](https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/)
