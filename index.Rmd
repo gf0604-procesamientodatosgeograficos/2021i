@@ -51,6 +51,7 @@ Este sitio web corresponde al curso impartido durante el primer ciclo lectivo de
 [14 Graficación con R - Histogramas, gráficos de dispersión y otros](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-10/)  
 [15 El ecosistema espacial de R - Datos vectoriales](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
 [16 El ecosistema espacial de R - Datos raster](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
+[17 Operaciones con datos de atributos - Datos vectoriales](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
 
 # Tareas
 [01 Markdown](https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/)
