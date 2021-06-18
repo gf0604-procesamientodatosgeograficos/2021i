@@ -54,6 +54,7 @@ Este sitio web corresponde al curso impartido durante el primer ciclo lectivo de
 [17 Operaciones con datos de atributos - Datos vectoriales](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
 [18 Operaciones con datos de atributos - Datos raster](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
 [19 Operaciones con datos espaciales - Datos vectoriales](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
+[20 Ejercicio de visualización de datos geoespaciales](https://gf0604-procesamientodatosgeograficos.github.io/junco_vulcani-cr/)  
 
 # Tareas
 [01 Markdown](https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/)
