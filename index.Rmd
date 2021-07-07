@@ -57,7 +57,8 @@ Este sitio web corresponde al curso impartido durante el primer ciclo lectivo de
 [20 Ejercicio de procesamiento y visualización de datos geoespaciales (*Junco vulcani*)](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
 [21 Operaciones con datos espaciales - Datos raster](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
 [22 Ejercicio de procesamiento y visualización de datos geoespaciales (*Primates*)](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
-[23 Ejercicio de procesamiento y visualización de datos geoespaciales (*Primates*)](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/) 
+[23 Ejercicio de procesamiento y visualización de datos geoespaciales (*Primates*)](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
+[24 Operaciones con geometrías - Datos vectoriales](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-15/)  
 
 # Tareas
 [01 Markdown](https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/)
